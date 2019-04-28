@@ -24,8 +24,6 @@
 import HelloWorld from "@/components/HelloWorld.vue";
 import SongList from "@/components/SongList.vue";
 import WeekPicker from "@/components/WeekPicker.vue";
-import recipes from "@/components/recipes.vue";
-import mealplan from "@/components/mealplan.vue";
 
 export default {
   name: "home",
